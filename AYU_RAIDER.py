@@ -23,7 +23,7 @@ from os import system
 import discum
 
 ur = 'https://discord.com/api/v9/channels/messages'
-title = 'ICE TOOLS'
+title = 'A Y U R A I D E R'
 system(f'title {title}')
 tokens = open('tokens.txt', 'r').read().splitlines()
 
@@ -45,19 +45,19 @@ def spammer():
     colorama.init()
     print("")
     print("")
-    print("                           ██╗░█████╗░███████╗ ")
-    print("                           ██║██╔══██╗██╔════╝ ")
-    print("                           ██║██║░░╚═╝█████╗░░ ")
-    print("                           ██║██║░░██╗██╔══╝░░")
-    print("                           ██║╚█████╔╝███████╗")
-    print("                           ╚═╝░╚════╝░╚══════╝ ")
+    print("                          ░█████╗░██╗░░░██╗██╗░░░██╗ ")
+    print("                          ██╔══██╗╚██╗░██╔╝██║░░░██║")
+    print("                          ███████║░╚████╔╝░██║░░░██║ ")
+    print("                          ██╔══██║░░╚██╔╝░░██║░░░██║")
+    print("                          ██║░░██║░░░██║░░░╚██████╔╝")
+    print("                          ╚═╝░░╚═╝░░░╚═╝░░░░╚═════╝░")
     print("")
     print("")
     print("")
 
 
 
-    print(f" {Fore.BLUE}                        ICE TOOLS{Fore.BLUE}")
+    print(f" {Fore.BLUE}                        AYURAIDER{Fore.BLUE}")
     print(f'{Fore.BLUE}╔══════════════════╦═══════════════════════╦══════════════════════╗{Fore.BLUE}')
     print(f'{Fore.BLUE}║{Fore.BLUE}     Raiding      {Fore.BLUE}║{Fore.BLUE}      TokenManager     {Fore.BLUE}║{Fore.BLUE}       Others {Fore.BLUE}        ║{Fore.BLUE}            ')
     print(f'{Fore.BLUE}║{Fore.BLUE}{Fore.BLUE}[1]{Fore.BLUE} Spammer       {Fore.BLUE}║{Fore.BLUE}{Fore.BLUE}[7]{Fore.BLUE} About/Status Change{Fore.BLUE}║{Fore.BLUE}{Fore.BLUE}[13]{Fore.BLUE} MassReport{Fore.BLUE}{Fore.BLUE}       ║{Fore.BLUE}')
@@ -1936,10 +1936,7 @@ def spammer():
     if choice == 17:
 
 
-        print(f'''{Fore.BLUE}Wassup buddy. This is fun made tool by ZERO...      
-If you have got some problems join https://discord.gg/zeroleak or contact ZEROLEAK.
-Enjoy Raiding and Nuking :D
-Special thanks to H0LLOW for helping me with a few things.
+        print(f'''{Fore.BLUE}Wassup buddy. Hope you're enjoying this. Do not use for harmful use
 {Fore.BLUE}''')
 
 
